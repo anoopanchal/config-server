@@ -1,8 +1,3 @@
-spring:
-  application:
-    name: CONFIG-SERVER
-
-
 eureka:
   client:
     hostname: 172.16.5.210
