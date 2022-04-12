@@ -11,3 +11,8 @@ eureka:
       defaultZone: http://172.16.5.210:8761/eureka/
    instance:
     hostname: 172.16.5.210
+  client: 
+    hostname: 172.16.5.210
+eureka:
+  instance:
+    hostname: 172.16.5.210
